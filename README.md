@@ -1,2 +1,2 @@
-# cdcoin
+ColdCoin
 ColdCoin
